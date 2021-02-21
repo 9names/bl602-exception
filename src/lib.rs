@@ -1,3 +1,4 @@
+#![no_std]
 use bl602_hal as hal;
 use hal::prelude::_embedded_hal_blocking_delay_DelayUs;
 use hal::pac;
